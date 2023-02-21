@@ -10,7 +10,7 @@ I’ve been learning to code for one year after switching careers. I started wit
 *   🖥️  See my portfolio at [kiwoonjung.com(working on it now)](http://kiwoonjung.com)
 *   ✉️  You can contact me at [kiwoon0627@gmail.com](mailto:kiwoon0627@gmail.com)
 *   🚀  I'm currently working on [Circle Market](http://circlemarket.xyz)
-*   🧠  I'm learning Python and Data Structure### Skills 
+*   🧠  I'm learning Python and Data Structure
 *   😄  Pronouns: he/him
 
 <p align="left">
