@@ -12,6 +12,7 @@ I’ve been learning to code for one year after switching careers. I started wit
 *   🚀  I'm currently working on [Circle Market](http://circlemarket.xyz)
 *   🧠  I'm learning Python and Data Structure### Skills 
 *   😄  Pronouns: he/him
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
