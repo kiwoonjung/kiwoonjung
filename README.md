@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kiwoon Jung
 ===================================================================================================================================
 
-Developer
+Developer, Storyteller, Lifelong Learner
 ---------
 
 I’ve been learning to code for one year after switching careers. I started with HTML, CSS and JavaScript, but I have really found a passion for Full-Stack development. I love learning new technologies and contributing to open source, and I also enjoy problem-solving as well.
