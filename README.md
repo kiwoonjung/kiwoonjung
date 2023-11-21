@@ -7,7 +7,7 @@ Developer, Storyteller, Lifelong Learner
 I’ve been learning to code for one year after switching careers. I started with HTML, CSS and JavaScript, but I have really found a passion for Full-Stack development. I love learning new technologies and contributing to open source, and I also enjoy problem-solving as well.
 
 *   🌍  I'm based in Vancouver
-*   🖥️  See my portfolio at [kiwoonjung.com(working on it now)](http://kiwoonjung.com)
+*   🖥️  See my portfolio at [kiwoonjung.com(working on it now)](http://www.kiwoonjung.com)
 *   ✉️  You can contact me at [kiwoon0627@gmail.com](mailto:kiwoon0627@gmail.com)
 *   🚀  I'm currently working on [Circle Market](http://circlemarket.xyz)
 *   🧠  I'm learning Python and Data Structure
